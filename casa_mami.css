@@ -1,0 +1,83 @@
+.head{
+    margin-top: 60px;
+    display: flex;
+    font-family: Volkhov;
+    color: #b4a87d;
+    background-color: #fff;
+}
+.about{
+    padding-left: 40px;
+    padding-right: 20px;
+    font-size: 10px;
+}
+
+.gallery{
+    padding-right: 20px;
+    font-size: 10px;
+}
+.renovation{
+    padding-right: 410px;
+    font-size: 10px;
+}
+.casa{
+    padding-right: 450px;
+    font-size: large;
+    
+}
+.shop{
+    padding-right: 20px;
+    font-size: 10px;
+}
+.events{
+    padding-right: 20px;
+    font-size: 10px;
+}
+.book{
+    font-size: 10px;
+}
+.cm2{
+    width: 100%;
+    padding-top: 30px;
+}
+.cap{
+    text-transform: uppercase;
+    font-family: Volkhov;
+    display: flex;
+    font-size: 15px;
+    justify-content: center;
+    padding-top: 50px;
+    color: #b4a87d;
+}
+.cap1{
+    padding-right: 50px;
+    font-size: 15px;
+}
+.cap2{
+    font-size: 10px;
+}
+.pics{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+.cm3{
+    padding-top: 100px;
+    padding-right: 50px;
+    padding-left: 50px;
+    width: 500px;
+    height: 600px;
+    
+    
+}
+.embl{
+    margin-left: 450px;
+    justify-content: center;
+}
+.women{
+    margin-left: 450px;
+    justify-content: center;
+}
+.insta{
+    padding-left: 52%;
+    width: 15px;
+}
